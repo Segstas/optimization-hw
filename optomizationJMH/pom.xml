@@ -40,6 +40,16 @@
         <artifactId>jmh-generator-annprocess</artifactId>
         <version>1.18</version>
     </dependency>
+    <dependency>
+        <groupId>com.47deg</groupId>
+        <artifactId>pbdirect_2.11</artifactId>
+        <version>0.4.1</version>
+    </dependency>
+    <dependency>
+        <groupId>com.thoughtworks.xstream</groupId>
+        <artifactId>xstream</artifactId>
+        <version>1.4.10</version>
+    </dependency>
 </dependencies>
 
 </project>
